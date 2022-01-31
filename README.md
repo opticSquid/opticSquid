@@ -35,20 +35,31 @@ And the list continues as I keep learning...
 
 > Best things in this world are FREE! Thats why I do open source.
 
-![GITHUB STREAK](https://github-readme-streak-stats.herokuapp.com/?user=opticSquid&theme=cobalt)
+## Streaks & Stats
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=opticSquid&theme=cobalt" alt="Streak"/>
+</p>
+
 ![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=opticSquid&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true)
 ![MOST USED LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=opticSquid&theme=cobalt)
 
 ## Languages & Stacks
 
-![REACT](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)
-![MATERIAL UI](https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg)
-![FLUTTER](https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg)
-![REDUX](https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg)
-![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg)
-![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
-![JAVASCRIPT](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
-![FIREBASE](https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg)
-![NODE JS](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg)
-![AWS](https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg)
-![GIT](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg)
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
