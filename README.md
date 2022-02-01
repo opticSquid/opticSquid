@@ -38,7 +38,7 @@ And the list continues as I keep learning...
 ## Streaks & Stats
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=opticSquid&theme=cobalt" alt="Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=opticSquid&theme=dark" alt="Streak"/>
 </p>
 
 ![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=opticSquid&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
