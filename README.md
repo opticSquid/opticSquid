@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm an Electrical Engineer (⚡) and a Tech Enthusiast (💻) from India. A **self trained programmer** and **full stack Web Developer**. I pursuing a **Bachelors in Electrical Engineering** from **Techno Main Saltlake, Kolkata**. Aspire to become a security practisioner and a AI enthusiast eventually I dream of brining best of both worlds together to make the Internet or its future successors secure. I love to learn new things and to **solve problems**.
+I'm an Electrical Engineer (⚡) and a Tech Enthusiast ( 💻 ) from India. A **self trained programmer** and **full stack Web Developer**. I pursuing a **Bachelors in Electrical Engineering** from **Techno Main Saltlake, Kolkata**. Aspire to become a security practisioner and a AI enthusiast eventually I dream of brining best of both worlds together to make the Internet or its future successors secure. I love to learn new things and to **solve problems**.
 
 Currently I work majorly in MERN stack
 
