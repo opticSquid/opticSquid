@@ -41,8 +41,8 @@ And the list continues as I keep learning...
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=opticSquid&theme=cobalt" alt="Streak"/>
 </p>
 
-![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=opticSquid&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true)
-![MOST USED LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=opticSquid&theme=cobalt)
+![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=opticSquid&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)
+![MOST USED LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=opticSquid&theme=onedark)
 
 ## Languages & Stacks
 
