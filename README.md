@@ -42,7 +42,6 @@ And the list continues as I keep learning...
 </p>
 
 ![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=opticSquid&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
-![MOST USED LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=opticSquid&theme=dark)
 
 ## Languages & Stacks
 
