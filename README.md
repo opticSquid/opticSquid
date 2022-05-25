@@ -12,9 +12,10 @@
 ## About Me
 
 I'm an Electrical Engineer (⚡) and a Tech Enthusiast (💻) from India. A **self trained programmer** and **full stack Web Developer**. I am pursuing a **Bachelors in Electrical Engineering** from **Techno Main Saltlake, Kolkata**. Aspire to become a security practisioner and a AI enthusiast eventually I dream of brining best of both worlds together to make the Internet or its future successors secure. I love to learn new things and to **solve problems**.
-
+<p align="center">
+    <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+</p>
 Currently I work majorly in MERN stack
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 - Mongo DB
 - Express JS
 - React JS
@@ -39,10 +40,8 @@ And the list continues as I keep learning...
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=opticSquid&theme=dark" alt="Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=opticSquid&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="stats"/>
 </p>
-
-![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=opticSquid&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
-
 ## Languages & Stacks
 
 <div align="center">
