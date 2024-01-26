@@ -11,22 +11,29 @@
 
 ## About Me
 
-I'm an Electrical Engineer (⚡) and a Tech Enthusiast (💻) from India. A **self trained programmer** and **full stack Web Developer**. I am pursuing a **Bachelors in Electrical Engineering** from **Techno Main Saltlake, Kolkata**. Aspire to become a security practisioner and a AI enthusiast eventually I dream of brining best of both worlds together to make the Internet or its future successors secure. I love to learn new things and to **solve problems**.
+I'm an Electrical Engineer (⚡) by education and a Software Developer (💻) by profession from India. A **self trained programmer** and **full stack Web Developer**. I aspire to become a security practisioner and a AI enthusiast eventually I dream of brining best of both worlds together to make the Internet or its future successors secure. I love to learn new things and to **solve problems**.
 <p align="center">
     <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 </p>
-Currently I work majorly in MERN stack
+Currently I work majorly in Java & MERN stack
+- Java
+- Spring Framework
+- Microservices
+- Postgesql
+- Mysql
+- Docker
+- Kafka
 - Mongo DB
 - Express JS
 - React JS
 - Node JS
 - Bootstrap, Material UI, Tailwind CSS etc..
 
-Other than that major languages and frameworks & Libraries I know
-
+Other than that major technologies and frameworks I know
+- GCP
+- AWS
 - Firebase
 - Cloud Functions
-- Angular JS
 - Python
 - C++
 
@@ -45,16 +52,15 @@ And the list continues as I keep learning...
 ## Languages & Stacks
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="C_plus_plus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Framework" alt="Spring Framework" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
