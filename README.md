@@ -7,11 +7,10 @@
 
 [![GITHUB FOLLOWERS](https://img.shields.io/github/followers/opticSquid?style=social)](https://github.com/opticSquid")
 ![Github Stars as Owner](https://img.shields.io/github/stars/opticSquid?affiliations=OWNER&style=social)
-![PROFILE VISITS](https://visitor-badge.glitch.me/badge?page_id=opticSquid.opticSquid)
 
 ## About Me
 
-I'm an Electrical Engineer (⚡) by education and a Software Developer (💻) by profession from India. A **self trained programmer** and **full stack Web Developer**. I aspire to become a security practisioner and a AI enthusiast eventually I dream of brining best of both worlds together to make the Internet or its future successors secure. I love to learn new things and to **solve problems**.
+I'm an Electrical Engineer (⚡) by education and a Software Developer (💻) by profession from India. A **self trained programmer** and **full stack Developer**. I aspire to become a Security Practisioner and a AI enthusiast eventually I dream of brining best of both worlds together to make the Internet or its future successors secure. I love to learn new things and to **solve problems**.
 <p align="center">
     <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 </p>
@@ -22,6 +21,7 @@ Currently I work majorly in Java & MERN stack
 - Postgesql
 - Mysql
 - Docker
+- Kubernetes
 - Kafka
 - Mongo DB
 - Express JS
