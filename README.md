@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm an Electrical Engineer (⚡) by education and a Software Developer (💻) by profession from India. A **self trained programmer** and **full stack Developer**. I aspire to become a Security Practisioner and a AI enthusiast eventually I dream of brining best of both worlds together to make the Internet or its future successors secure. I love to learn new things and to **solve problems**.
+I'm a Software Developer (💻) by profession and Electrical Engineer (⚡) by education and a  from India. A **self trained programmer** and **full stack Developer**. I aspire to become a Security Practisioner and a AI enthusiast eventually I dream of brining best of both worlds together to make the Internet or its future successors secure. I love to learn new things and to **solve problems**. Love video encoding and streaming stuff for some reaosn. 🤪
 <p align="center">
     <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 </p>
